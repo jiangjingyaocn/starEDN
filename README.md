@@ -64,4 +64,10 @@ python demo.py
   year={2021},
   doi={10.1109/TPAMI.2021.3134684}
 }
+@inproceedings{ma2024rewrite,
+    title={Rewrite the Stars},
+    author={Xu Ma and Xiyang Dai and Yue Bai and Yizhou Wang and Yun Fu},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+    year={2024}
+}
 ````
