@@ -48,7 +48,7 @@ python demo.py
 ````
 
 ## Acknowledgments
-- **EDN Project**: The core of this project is largely derived from the [EDN](https://github.com/yuhuan-wu/EDN) codebase. We have made minor adjustments for our specific use case. 
+- **EDN Project**: The core of this project is largely derived from the [EDN](https://github.com/yuhuan-wu/EDN) and [StarNet](https://github.com/ma-xu/Rewrite-the-Stars/tree/main) codebase. We have made minor adjustments for our specific use case. 
 ````
 @ARTICLE{wu2022edn,
   title={EDN: Salient object detection via extremely-downsampled network},
